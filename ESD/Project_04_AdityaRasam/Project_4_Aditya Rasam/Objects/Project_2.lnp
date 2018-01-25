@@ -1,0 +1,13 @@
+--cpu Cortex-M0+
+".\objects\leds.o"
+".\objects\main.o"
+".\objects\mma8451.o"
+".\objects\delay.o"
+".\objects\i2c.o"
+".\objects\lptimer.o"
+".\objects\startup_mkl25z4.o"
+".\objects\system_mkl25z4.o"
+--strict --scatter ".\Objects\Project_2.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\Project_2.map" -o .\Objects\Project_2.axf
