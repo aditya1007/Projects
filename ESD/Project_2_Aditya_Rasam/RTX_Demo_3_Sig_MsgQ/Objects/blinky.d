@@ -1,0 +1,14 @@
+.\objects\blinky.o: Source\Blinky.c
+.\objects\blinky.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\RTOS\RTX\INC\cmsis_os.h
+.\objects\blinky.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\blinky.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\blinky.o: C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include\MKL25Z4.H
+.\objects\blinky.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\blinky.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0plus.h
+.\objects\blinky.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\blinky.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h
+.\objects\blinky.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\blinky.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h
+.\objects\blinky.o: C:\Users\ABC\Desktop\EP2_WS\Mode123_Final_Working_0223_1300hrs\RTX_Demo_3_Sig_MsgQ\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h
+.\objects\blinky.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\blinky.o: Source\gpio_defs.h
