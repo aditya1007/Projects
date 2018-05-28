@@ -1,0 +1,32 @@
+Dependencies for Project 'RTX_Demo', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Source\Blinky.c)(0x58B10C00)(-c --cpu Cortex-M0+ -D__RTX -D__EVAL -g -O1 --apcs=interwork --split_sections-IC:\Users\ABC\Desktop\EP2_WS\Mode123_Final_Working_0223_1300hrs\RTX_Demo_3_Sig_MsgQ\RTE\Device\MKL25Z128xxx4-IC:\Users\ABC\Desktop\EP2_WS\Mode123_Final_Working_0223_1300hrs\RTX_Demo_3_Sig_MsgQ\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DMKL25Z128xxx4-o .\objects\blinky.o --omf_browse .\objects\blinky.crf --depend .\objects\blinky.d)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x5825F0B0)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x58AAD7B7)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x57F6BD88)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include\MKL25Z4.H)(0x5644D36A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0plus.h)(0x5825F0AE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h)(0x5825F0AE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h)(0x5825F0AE)
+I (C:\Users\ABC\Desktop\EP2_WS\Mode123_Final_Working_0223_1300hrs\RTX_Demo_3_Sig_MsgQ\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x58AE284A)
+I (Source\gpio_defs.h)(0x58AF1E41)
+F (.\Source\gpio_defs.h)(0x58AF1E41)()
+F (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\RTOS\RTX\LIB\ARM\RTX_CM0.lib)(0x5825F0B0)()
+F (RTE\CMSIS\RTX_Conf_CM.c)(0x58B0FA09)(-c --cpu Cortex-M0+ -D__RTX -D__EVAL -g -O1 --apcs=interwork --split_sections-IC:\Users\ABC\Desktop\EP2_WS\Mode123_Final_Working_0223_1300hrs\RTX_Demo_3_Sig_MsgQ\RTE\Device\MKL25Z128xxx4-IC:\Users\ABC\Desktop\EP2_WS\Mode123_Final_Working_0223_1300hrs\RTX_Demo_3_Sig_MsgQ\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DMKL25Z128xxx4-o .\objects\rtx_conf_cm.o --omf_browse .\objects\rtx_conf_cm.crf --depend .\objects\rtx_conf_cm.d)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\RTOS\RTX\INC\cmsis_os.h)(0x5825F0B0)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x58AAD7B7)
+I (C:\Keil_v5\ARM\ARMCC\include\stddef.h)(0x57F6BD88)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include\MKL25Z4.H)(0x5644D36A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0plus.h)(0x5825F0AE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h)(0x5825F0AE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h)(0x5825F0AE)
+I (C:\Users\ABC\Desktop\EP2_WS\Mode123_Final_Working_0223_1300hrs\RTX_Demo_3_Sig_MsgQ\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x58AE284A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\RTOS\RTX\INC\RTX_CM_lib.h)(0x5825F0B0)
+F (RTE\Device\MKL25Z128xxx4\startup_MKL25Z4.s)(0x58A463CC)(--cpu Cortex-M0+ --pd "__RTX SETA 1" --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Users\ABC\Desktop\EP2_WS\Mode123_Final_Working_0223_1300hrs\RTX_Demo_3_Sig_MsgQ\RTE\Device\MKL25Z128xxx4-IC:\Users\ABC\Desktop\EP2_WS\Mode123_Final_Working_0223_1300hrs\RTX_Demo_3_Sig_MsgQ\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include--pd "__UVISION_VERSION SETA 522" --pd "_RTE_ SETA 1" --pd "MKL25Z128xxx4 SETA 1"--list .\listings\startup_mkl25z4.lst --xref -o .\objects\startup_mkl25z4.o --depend .\objects\startup_mkl25z4.d)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.c)(0x58A463CC)(-c --cpu Cortex-M0+ -D__RTX -D__EVAL -g -O1 --apcs=interwork --split_sections-IC:\Users\ABC\Desktop\EP2_WS\Mode123_Final_Working_0223_1300hrs\RTX_Demo_3_Sig_MsgQ\RTE\Device\MKL25Z128xxx4-IC:\Users\ABC\Desktop\EP2_WS\Mode123_Final_Working_0223_1300hrs\RTX_Demo_3_Sig_MsgQ\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\RTOS\RTX\INC-IC:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DMKL25Z128xxx4-o .\objects\system_mkl25z4.o --omf_browse .\objects\system_mkl25z4.crf --depend .\objects\system_mkl25z4.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x58AAD7B7)
+I (C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include\MKL25Z4.h)(0x5644D36A)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\core_cm0plus.h)(0x5825F0AE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_compiler.h)(0x5825F0AE)
+I (C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0\CMSIS\Include\cmsis_armcc.h)(0x5825F0AE)
+I (C:\Users\ABC\Desktop\EP2_WS\Mode123_Final_Working_0223_1300hrs\RTX_Demo_3_Sig_MsgQ\RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x58AE284A)
+F (RTE\Device\MKL25Z128xxx4\system_MKL25Z4.h)(0x58AE284A)()
